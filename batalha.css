@@ -1,0 +1,24 @@
+#batalha{
+    margin-left:50%;
+    transform: translateX(-50%);
+    position: relative;
+    width: 500px;
+    height: 500px;
+    border: 2px solid rgb(71, 70, 70);
+}
+#batalha div{
+    background-image:url();
+    position:absolute;
+    box-sizing:border-box;
+    width: 50px;
+    height: 50px;
+    border: 1px solid rgb(7, 7, 7);
+    background-color: lightgrey;
+}
+h1{
+    font-family:serif;
+    text-align: center;
+}
+body{
+    background-color: rgb(22, 148, 197);
+}
